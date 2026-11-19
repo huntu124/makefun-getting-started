@@ -27,7 +27,7 @@ getting paid.
 
 ## 1. How the platform works
 
-A bounty is a competition with a task, a deadline and a reward. Every one follows the same lifecycle:
+A bounty is a competition with a task, a deadline and a reward. Every bounty follows the same lifecycle, and knowing where the time goes helps you pick ones worth building:
 
 | Stage | What happens |
 |---|---|
